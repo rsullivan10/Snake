@@ -2,7 +2,7 @@
 # Author: Roger Sullivan
 
 import time
-from turtle import Screen, Turtle
+from turtle import Screen
 from sneak import Sneak
 
 screen = Screen()
